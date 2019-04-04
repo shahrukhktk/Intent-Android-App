@@ -1,0 +1,2 @@
+# Intent-Android-App
+Hi, This android app is about Intent Class. It will help the beginners, how intent works in android studio. Basically android developers use the intent for passing the data from one activity to any other activity for some specific purpose. And we can say that Intent Class is used for moving from one activity to another activity. It is quite simple to understand about the Intent in android. Thank you
